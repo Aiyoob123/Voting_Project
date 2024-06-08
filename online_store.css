@@ -1,0 +1,86 @@
+/*Compulsory Task*/
+
+/* Below are the CSS styles added to my HTML code*/
+img{
+    width: 300px;
+    height: 300px;
+
+}
+
+img:hover{
+    transform: scale(1.1);
+}
+
+h1{
+    text-align: center; 
+    padding-top: 20px; 
+    padding-bottom: 20px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+h5{
+    padding-left: 10px;
+}
+
+p{
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 25px;
+}
+
+.price{
+    text-align: center;
+    
+}
+
+button {
+    padding: 10px 10%;
+    margin-bottom: 10px;
+    transform: translateY(-50%);
+
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#footer{
+    padding-top: 30px;
+    text-align: center;
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+input[type="text"], input[type="search"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    background-color: #ffffff;
+    border-radius: 4px;
+    box-sizing: border-box;
+    transition: border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+input[type="text"]:focus, input[type="search"]:focus {
+    border-color: #007BFF;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+#submit_button{
+    margin-top: 10px;
+}
+
+#message_input{
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
