@@ -49,3 +49,9 @@ After installing the project locally, you can use it as follows:
 ### Screenshots
 Home Page - Screenshot of the home page
 ([Home Page](https://github.com/Aiyoob123/Voting_Project/blob/main/Screenshot%20(57).png).png)
+
+Contact Page - Screenshot of the contact page.
+([Contact Page](https://github.com/Aiyoob123/Voting_Project/blob/main/Screenshot%20(58).png).png)
+
+## Credits
+This project was created by Aiyoob Bhaiyaat (https://github.com/Aiyoob123).
