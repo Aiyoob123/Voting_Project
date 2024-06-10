@@ -50,7 +50,7 @@ After installing the project locally, you can use it as follows:
 ![Contact Page]([Screenshot (58)](https://github.com/Aiyoob123/Voting_Project/blob/main/Screenshot%20(58).png).png)
 Screenshot of the contact page.
 
-![Product Search](.Screenshot (57).png)
+![Product Search]([.Screenshot (57)](https://github.com/Aiyoob123/Voting_Project/blob/main/Screenshot%20(58).png).png)
 Screenshot demonstrating the search functionality in action.
 
 ## Credits
