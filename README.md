@@ -47,10 +47,10 @@ After installing the project locally, you can use it as follows:
 
 
 ### Screenshots
-![Contact Page](./screenshots/homepage.png)
+![Contact Page](Screenshot (58).png)
 Screenshot of the contact page.
 
-![Product Search](./screenshots/product_search.png)
+![Product Search](Screenshot (57).png)
 Screenshot demonstrating the search functionality in action.
 
 ## Credits
